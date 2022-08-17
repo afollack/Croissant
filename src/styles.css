@@ -1,0 +1,33 @@
+h1 {
+  text-align: center;
+  color: white;
+}
+
+body {
+  background-color: #070b0d;
+  margin: 0;
+}
+
+.nav {
+  display: flex;
+  justify-content: flex-end;
+  background: white;
+  padding: 5px;
+}
+
+.nav a {
+  padding: 5px;
+  text-decoration: none;
+  margin-right: 5px;
+  color: #070b0d;
+  font-size: 18px;
+}
+
+.nav a:hover {
+  text-decoration: underline;
+}
+
+.croissants {
+  display: flex;
+  justify-content: center;
+}
